@@ -39,6 +39,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 10px;
 }
 
 .open-post__title {
@@ -49,6 +50,7 @@
 .open-post__hashtags {
   text-transform: uppercase;
   opacity: 0.6;
+  font-size: 13px;
 }
 
 .open-post__members {
