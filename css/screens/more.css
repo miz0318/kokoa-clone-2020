@@ -21,6 +21,9 @@
   flex-direction: column;
   align-items: center;
 }
+.more-suggestions__icon-text {
+  text-align: center;
+}
 
 .more-suggestions__icon-image {
   width: 60px;
