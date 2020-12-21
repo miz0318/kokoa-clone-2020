@@ -1,14 +1,13 @@
-### **KakaoTalk CloneCoding**
+<!--header-->
 
-- 기본적인 HTML, CSS를 활용하여 현재 가장 많이 사용하는 채팅 서비스인 카카오톡 프론트엔드를 구현
+### KakaoTalk **CloneCoding**
 
-### **Sections**
-
-<<<<<<< Updated upstream
 ---
 
-=======
->>>>>>> Stashed changes
+기본적인 HTML, CSS를 활용하여 현재 가장 많이 사용하는 채팅 서비스인 카카오톡 프론트엔드를 구현
+
+### Sections
+
 1. Index - login page
 2. Friends - friends list
 3. Chats - chat list
