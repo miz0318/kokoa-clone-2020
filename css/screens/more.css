@@ -40,3 +40,14 @@
   font-size: 32px;
   color: white;
 }
+
+table {
+  display: flex;
+  width: 100%;
+  text-align: center;
+}
+
+.icon-row_box {
+  display: flex;
+  flex-direction: column;
+}
